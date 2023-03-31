@@ -1,2 +1,3 @@
 # E-commerce-tamples
-here is e commerce tampeles
+Here is E-commerce Furniture website Template .Website have five section Home, About, services, Team and Contact
+#Furniturewebsite#risponsive#ecomerce#html#css#jqurey#portfolio#customwebsite#furniturewebsitetemplates#customwebamplates
