@@ -212,10 +212,10 @@ color: #fff;
 }
 
 @media screen and (max-width: 500px){
-  .col-4{
+  .About-section .col-4{
     width:100%;
   }
-  ,col-8{
+  .About-section .col-8{
     width:100%;
 }
 
@@ -329,6 +329,12 @@ background: linear-gradient(360deg, rgba(221,202,172,1) 39%, rgba(198,169,133,1)
   background-color:#c6a985;
   color: #fff;
 }
+  
+    @media screen and (max-width: 500px){
+   .Services-section .col-3{
+      width:100%;
+    }
+  }
 
 /* .Services section end */
 
@@ -359,11 +365,7 @@ background-color: #c6a985;
   height: 100px;
   width: 100px;
 }
-  @media screen and (max-width: 500px){
-    .col-3{
-      width:100%;
-    }
-  }
+
 
 /* Team section start */
 
@@ -402,7 +404,7 @@ background-color: #c6a985;
 }
   
    @media screen and (max-width: 500px){
-    .col-3{
+    .Team-section .col-3{
       width:50%;
     }
   }
@@ -421,7 +423,7 @@ background-color: #c6a985;
   line-height: 35px;
 }
    @media screen and (max-width: 500px){
-    .col-6{
+    .Contact-section.col-6{
       width:100%;
     }
   }
