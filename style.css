@@ -210,6 +210,15 @@ color: #fff;
   background-position: center;
   
 }
+
+@media screen and (max-width: 500px){
+  .col-4{
+    width:100%;
+  }
+  ,col-8{
+    width:100%;
+}
+
 /* .About-section .col-8 .content{
  
 } */
@@ -350,6 +359,11 @@ background-color: #c6a985;
   height: 100px;
   width: 100px;
 }
+  @media screen and (max-width: 500px){
+    .col-3{
+      width:100%;
+    }
+  }
 
 /* Team section start */
 
@@ -386,6 +400,12 @@ background-color: #c6a985;
   font-weight: 50;
   color: #c6a985;
 }
+  
+   @media screen and (max-width: 500px){
+    .col-3{
+      width:50%;
+    }
+  }
 
 /* Team section end */
 
@@ -400,6 +420,11 @@ background-color: #c6a985;
   align-items: center;
   line-height: 35px;
 }
+   @media screen and (max-width: 500px){
+    .col-6{
+      width:100%;
+    }
+  }
 
 /* Contact section end */
 
@@ -456,31 +481,6 @@ background-color: #c6a985;
 border: 2px solid #fff;
 color: #fff;
 } */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* Footer start */
